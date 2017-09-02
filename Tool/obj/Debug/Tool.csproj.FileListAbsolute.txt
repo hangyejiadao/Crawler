@@ -1,0 +1,15 @@
+E:\Net\Crawler\Tool\bin\Debug\Tool.dll
+E:\Net\Crawler\Tool\bin\Debug\Tool.pdb
+E:\Net\Crawler\Tool\bin\Debug\log4net.dll
+E:\Net\Crawler\Tool\bin\Debug\log4net.xml
+E:\Net\Crawler\Tool\obj\Debug\Tool.dll
+E:\Net\Crawler\Tool\obj\Debug\Tool.pdb
+E:\Net\Crawler\Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Net\Crawler\Tool\bin\Debug\Lucene.Net.dll
+E:\Net\Crawler\Tool\bin\Debug\PanGu.dll
+E:\Net\Crawler\Tool\bin\Debug\PanGu.HighLight.dll
+E:\Net\Crawler\Tool\bin\Debug\PanGu.Lucene.Analyzer.dll
+E:\Net\Crawler\Tool\bin\Debug\Lucene.Net.pdb
+E:\Net\Crawler\Tool\bin\Debug\Lucene.Net.xml
+E:\Net\Crawler\Tool\bin\Debug\PanGu.pdb
+E:\Net\Crawler\Tool\bin\Debug\PanGu.HighLight.pdb

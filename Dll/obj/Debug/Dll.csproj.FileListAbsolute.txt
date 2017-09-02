@@ -1,0 +1,13 @@
+E:\Net\Crawler\Dll\bin\Debug\Dll.dll
+E:\Net\Crawler\Dll\bin\Debug\Dll.pdb
+E:\Net\Crawler\Dll\bin\Debug\IDll.dll
+E:\Net\Crawler\Dll\bin\Debug\Model.dll
+E:\Net\Crawler\Dll\bin\Debug\Tool.dll
+E:\Net\Crawler\Dll\bin\Debug\log4net.dll
+E:\Net\Crawler\Dll\bin\Debug\IDll.pdb
+E:\Net\Crawler\Dll\bin\Debug\Model.pdb
+E:\Net\Crawler\Dll\bin\Debug\Tool.pdb
+E:\Net\Crawler\Dll\bin\Debug\log4net.xml
+E:\Net\Crawler\Dll\obj\Debug\Dll.csprojResolveAssemblyReference.cache
+E:\Net\Crawler\Dll\obj\Debug\Dll.dll
+E:\Net\Crawler\Dll\obj\Debug\Dll.pdb

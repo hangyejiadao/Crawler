@@ -1,0 +1,4 @@
+E:\Net\Crawler\Model\bin\Debug\Model.dll
+E:\Net\Crawler\Model\bin\Debug\Model.pdb
+E:\Net\Crawler\Model\obj\Debug\Model.dll
+E:\Net\Crawler\Model\obj\Debug\Model.pdb

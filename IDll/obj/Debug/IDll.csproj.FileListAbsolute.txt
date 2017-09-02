@@ -1,0 +1,4 @@
+E:\Net\Crawler\IDll\bin\Debug\IDll.dll
+E:\Net\Crawler\IDll\bin\Debug\IDll.pdb
+E:\Net\Crawler\IDll\obj\Debug\IDll.dll
+E:\Net\Crawler\IDll\obj\Debug\IDll.pdb

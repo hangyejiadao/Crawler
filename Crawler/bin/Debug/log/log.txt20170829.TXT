@@ -1,0 +1,7 @@
+2017-08-29 06:29:33,340 [9] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:00:37,380 [9] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:21:47,722 [9] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:24:07,310 [9] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:25:07,898 [9] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:25:37,681 [10] INFO  Tool.Logger - 系统初始化Logger模块
+2017-08-29 20:26:00,780 [9] INFO  Tool.Logger - 系统初始化Logger模块
